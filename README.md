@@ -150,7 +150,7 @@ User Query
 🔗 **[huggingface.co/spaces/MohamedBelal-AI/quora-semantic-search](https://huggingface.co/spaces/MohamedBelal-AI/quora-semantic-search)**
 
 <p align="center">
-  <img src="assets/app_ui_screenshot.png" width="800" alt="Application UI" />
+  <img src="app_ui_screenshot.png" width="800" alt="Application UI" />
 </p>
 
 ### 🔎 Example Query | مثال تطبيقي
