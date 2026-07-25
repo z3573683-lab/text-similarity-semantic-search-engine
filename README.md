@@ -137,7 +137,7 @@ User Query
 **AR:** عينة 1000 زوج متطابق شُغّلت على الـ Pipeline كامل لقياس **جودة البحث الفعلية**.
 
 <p align="center">
-  <img src="assets/retrieval_metrics.png" width="600" alt="Retrieval Metrics: Hit Rate and MRR" />
+  <img src="retrieval_metrics.png" width="600" alt="Retrieval Metrics: Hit Rate and MRR" />
 </p>
 
 **Interpretation | التفسير:** The gap between high pairwise F1 (0.83) and lower Hit Rate@1 (5.2%) reflects the difference between "classify a given pair" (easier) and "find the right answer among 300K+ candidates and rank it first" (harder) — a retrieval challenge, not a classification one.
