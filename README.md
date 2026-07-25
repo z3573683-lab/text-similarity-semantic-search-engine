@@ -158,7 +158,7 @@ User Query
 **Query:** `"How can I start learning machine learning from scratch?"`
 
 <p align="center">
-  <img src="assets/example_query_output.png" width="700" alt="Example query output ranked results" />
+  <img src="example_query_output.png" width="700" alt="Example query output ranked results" />
 </p>
 
 **English:** Notice the confidence drop between rank 3 (2.31) and rank 4 (1.57) — the model expresses genuine relevance separation instead of flat, undifferentiated scores. Also note rank 1 ("kevin murphy how do i learn machine learning from scratch") — the model correctly ignored an irrelevant proper noun embedded in the real Quora question, ranking it top purely on semantic similarity of the rest of the sentence.
