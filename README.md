@@ -88,7 +88,7 @@ User Query
 **AR:** تقييم الموديل الجاهز قبل التدريب - بيثبت إن الموديل الخام بيصنف كل حاجة تقريباً "متطابقة" عند العتبة الافتراضية.
 
 <p align="center">
-  <img src="assets/baseline_classification_report.png" width="600" alt="Zero-Shot Baseline Classification Report" />
+  <img src="baseline_classification_report.png" width="600" alt="Zero-Shot Baseline Classification Report" />
 </p>
 
 ### Fine-Tuning + Threshold Calibration | التدريب ومعايرة العتبة
@@ -96,7 +96,7 @@ User Query
 **AR:** تدريب بـ `OnlineContrastiveLoss` على التدريب بس، ثم معايرة أفضل Threshold على الـ Validation بدل رقم عشوائي.
 
 <p align="center">
-  <img src="baseline_classification_report.png" width="600" alt="Fine-Tuned Classification Report at Calibrated Threshold" />
+  <img src="finetuned_classification_report".png" width="600" alt="Fine-Tuned Classification Report at Calibrated Threshold" />
 </p>
 
 **Baseline → Fine-Tuned Improvement | التحسّن بعد التدريب:**
