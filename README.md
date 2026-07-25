@@ -128,7 +128,7 @@ User Query
 ### Confusion Matrix (Test Set @ τ=0.79) | مصفوفة الالتباس
 
 <p align="center">
-  <img src="assets/evaluation_confusion_matrix.png" width="550" alt="Final Test Set Confusion Matrix" />
+  <img src="evaluation_confusion_matrix.png" width="550" alt="Final Test Set Confusion Matrix" />
 </p>
 
 ### Retrieval Metrics — Hit Rate@K & MRR@K | مقاييس الاسترجاع
