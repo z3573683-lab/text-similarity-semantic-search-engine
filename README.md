@@ -96,7 +96,7 @@ User Query
 **AR:** تدريب بـ `OnlineContrastiveLoss` على التدريب بس، ثم معايرة أفضل Threshold على الـ Validation بدل رقم عشوائي.
 
 <p align="center">
-  <img src="finetuned_classification_report".png" width="600" alt="Fine-Tuned Classification Report at Calibrated Threshold" />
+  <img src="finetuned_classification_report".png width="600" alt="Fine-Tuned Classification Report at Calibrated Threshold" />
 </p>
 
 **Baseline → Fine-Tuned Improvement | التحسّن بعد التدريب:**
